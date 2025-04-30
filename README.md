@@ -78,13 +78,6 @@ The dataset also includes two derived features calculated from the primary featu
 | loan_to_income_ratio | Numeric | Ratio of loan amount to annual income |
 | payment_to_income_ratio | Numeric | Ratio of estimated monthly payment to monthly income |
 
-### Data Distribution
-
-- Overall repayment rate: approximately 75%
-- Loan amounts range from €1,000 to €100,000
-- Loan terms range from 12 to 60 months
-- Applications span from January 2020 to December 2022
-
 ### Important Notes
 
 1. This dataset only contains loans that were initially **approved** by loan officers; it does not include rejected applications
