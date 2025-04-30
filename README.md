@@ -151,7 +151,7 @@ Your submission will be evaluated based on:
 
 1. **Economic reasoning and problem understanding**
 2. **Technical implementation and coding skills**
-3. **Compliance awareness and critical thinking**
+3. **Context awareness and critical thinking**
 4. **Communication and documentation quality**
 
 Good luck with your submission! We look forward to seeing your  approach to this challenge.
